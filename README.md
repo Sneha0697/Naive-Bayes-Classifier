@@ -15,6 +15,7 @@ categories per explanatory variable, pivot tables, trained model and confusion m
 over 18 thousand cells.
 
 ***Limitations***
+
   The first limitation by the Naïve Bayes is that we assume that all the explanatory
 variables are independent from each other, but in real life it is not like that. This classification
 system suggests that the correlation between the explanatory variables is 0, which is not true.
@@ -25,6 +26,7 @@ variable that is not included in the training data set, the model will assign a 
 implying it will not generate a prediction. This is commonly referred to as Zero Frequency.
 
 ***Application in Business fields***
+
    When there is a text classification scenario, the data is large, and the training set is
 small, Naive Bayes is commonly applied. For conditions like this, career websites like
 LinkedIn, Glassdoor, Dice, and clothing/retail websites like Amazon, Calvin Klein, Shein, and
