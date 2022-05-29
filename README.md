@@ -1,5 +1,9 @@
 # Naive-Bayes-Classifier
 
+I am grateful to all of my teammates, who were a group of enthusiasts and a huge resource in building this model.
+
+**Naïve Bayes**
+
 ***Advantages***
 
    The Naïve Bayes model performs better to other models, considering it only requires a
